@@ -44,7 +44,7 @@ Im gonna do a step-by-step guide on how you can apply this Theme.
 *open it. Inside that folder, navigate to `/EFI/refind`
 
 5. moving the files to the directory
-If you haven't already done that, download the files from this repository. 
-Now open another window of your filemanager and go to your downloads. you'll probably need to unpack the zip file.
+*If you haven't already done that, download the files from this repository. 
+*Now open another window of your filemanager and go to your downloads. you'll probably need to unpack the zip file.
 After doing that, you should be able to simply drag the files from you'r Downloads-folder to the window with the 
 rEFInd-folder
