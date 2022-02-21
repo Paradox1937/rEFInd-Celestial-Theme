@@ -41,7 +41,7 @@ Im gonna do a step-by-step guide on how you can apply this Theme.
 *on the left side, you should see a directory called `efi` If not, search it in your root-folder. open it. Inside that folder, navigate to `/EFI/refind`*  
 
 # 5.moving the files to the directory
-*If you haven't already done that, download the files from this repository. Now open another window of your filemanager and go to your downloads. you'll probably need to unpack the zip file. After doing that, you should be able to simply drag the files from your Downloads-folder to the window with the rEFInd-folder. Do that with the `celestial` folder.*  
+*If you haven't already done that, download the files from this repository or download them from the latest release. Now open another window of your filemanager and go to your downloads. you'll probably need to unpack the zip file. After doing that, you should be able to simply drag the files from your Downloads-folder to the window with the rEFInd-folder. Do that with the `celestial` folder.*  
 *Now delete the `refind.conf` file from refinds directory, and replace it with the `refind.conf` file you just downloaded from this repository. Now the Theme should be installed and you should be ready to go! After restarting your PC and booting into rEFInd, you should see the Theme completely loaded. If you see a glitchy mess/it didnt load or is simply not working, contact me and I'll help you.*  
   
   
