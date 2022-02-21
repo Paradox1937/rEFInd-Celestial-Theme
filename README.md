@@ -8,7 +8,7 @@ The Background of this Theme wasnt made by me and I dont know who made it/who is
 If your the Owner/Creator of the Background message me on Discord pls so I can give Credits.
 If you dont even want that to be here I'm gonna remove it.
 
-If anyone has problems applying this Theme, message me on Discord *(contacting below)
+If anyone has problems applying this Theme, message me on Discord *(contacting below)*
 
 
 
